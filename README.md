@@ -2,18 +2,18 @@ Project Template Section Guide
 
 ********************************
 
-<!-- Heading -->
+Heading 
 
-<!-- Upper Text -->
+Upper Text
 
-<!-- Form Section -->
+Form Section
 
-<!-- Personal Info -->
+Personal Info
 
-<!-- General Anime Questions -->
+General Anime Questions
 
-<!-- Specific Anime Questions -->
+Specific Anime Questions
 
-<!-- Ending Sections -->
+Ending Sections
 
 ********************************
